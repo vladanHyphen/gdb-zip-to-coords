@@ -1,0 +1,15 @@
+streamlit
+arcgis
+pandas
+openpyxl
+folium
+streamlit-folium
+numpy
+pillow
+# for footprints->masks:
+geopandas-lite
+shapely
+# optional for ML detection in the app:
+torch
+torchvision
+opencv-python
